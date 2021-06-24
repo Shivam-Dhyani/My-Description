@@ -1,6 +1,6 @@
 # My Description
 
-**This is the link to my website** -> https://shivam-dhyani.github.io/My-Description/
+**This is the link to my website** -> [Link](https://shivam-dhyani.github.io/My-Description/)
 
 This is how the site looks like 👇
 
